@@ -1,0 +1,6 @@
+handle disconnecting between routers
+connect client to router
+group server creation
+    connect to router
+    make ip and send to server
+

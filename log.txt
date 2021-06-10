@@ -1,0 +1,7 @@
+Listening on port 5050
+Client with socket 4 added
+Client with socket 5 added
+got :00:101010::g2
+got :00:202020::g1
+Client with socket 6 added
+got :01:nothingmore
